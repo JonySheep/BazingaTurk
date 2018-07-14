@@ -1,0 +1,8 @@
+.headAvatar{
+  height: 30px;
+  width: 30px;
+  border-radius: 200px;
+  margin-top: 10px;
+  box-shadow: 0px 0px 5px 0px rgba(255, 112, 67, 1);
+
+}
